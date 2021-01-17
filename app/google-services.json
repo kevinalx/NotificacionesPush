@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337412080634",
+    "project_id": "testnotificacion-da76d",
+    "storage_bucket": "testnotificacion-da76d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337412080634:android:91e2c95bf96feb36291a43",
+        "android_client_info": {
+          "package_name": "com.prueba.testpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337412080634-fb43g59vtpjsk7qtj6ebkn4mbnlclihi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATQs1TSh-_mRVhGOupUBoEZKB66oUazro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337412080634-fb43g59vtpjsk7qtj6ebkn4mbnlclihi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
